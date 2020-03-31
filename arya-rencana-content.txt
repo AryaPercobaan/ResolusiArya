@@ -3,8 +3,10 @@ RENCANA KONTEN ARYA
 - Javascript
   * ES6
   * Framework Javascript
-    > vue
-    > react
+    > Vue
+    > react  
+- PHP Framework
+  > Laravel
 - Struktur Data Dasar  
 - PHP Framework
     > Laravel
